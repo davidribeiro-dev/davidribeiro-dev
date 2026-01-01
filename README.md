@@ -5,4 +5,4 @@ Welcome to my GitHub! Here, I showcase my projects in programming, networking, a
 TO DO:
 - Add Pi Game 2.0 for documentation
 - Perform Bug Fixes for personal portfolio website
-- Add updates/tweaks to Pi Game 3.0 and movement, menu, map. Expected full release 1.1.26
+- Add updates/tweaks to Pi Game 3.0 and movement, menu, map. Expected full release 2.10.26
