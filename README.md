@@ -1,7 +1,18 @@
-## Hi there 👋
+## Hi, I'm David 👋
 
-Welcome to my GitHub! Here, I showcase my projects in programming, networking, and cybersecurity. Feel free to explore my work and see what I’ve been building.
+Im a CIS student at Blue Hills Regional Technical School!
 
-UPDATES!
-- Pi Game 3.0 v2 (Vertigo) Beta will be ready for release by the next week!
-- 2 more projects planned, will provide further updates soon. 
+You'll find a mix here: school projects (Unity / C#), a personal portfolio site, and a growing focus on networking and cybersecurity as I work through the CCNA.
+
+**Currently learning:** Cisco CCNA · Python · Linux fundamentals
+**Tools I work with:** C#, Unity, HTML/CSS, networking fundamentals
+**Looking for:** Summer 2026 IT or cybersecurity internships, related IT work.
+
+### Where to find me
+- 🌐 Portfolio: https://davidribeiro-dev.github.io/
+- 📜 Verified credentials: https://www.credly.com/users/david-ribeiro1
+- 📧 drribeiro02@gmail.com
+
+### Recently
+- Earned the **CompTIA Security+** certification
+- Competed at the state level in **SkillsUSA Internetworking**
