@@ -5,7 +5,9 @@ Im a CIS student at Blue Hills Regional Technical School!
 You'll find a mix here: school projects (Unity / C#), a personal portfolio site, and a growing focus on networking and cybersecurity as I work through the CCNA.
 
 **Currently learning:** Cisco CCNA · Python · Linux fundamentals
+
 **Tools I work with:** C#, Unity, HTML/CSS, networking fundamentals
+
 **Looking for:** Summer 2026 IT or cybersecurity internships, related IT work.
 
 ### Where to find me
