@@ -1,6 +1,6 @@
 ## Hi, I'm David 👋
 
-I'm a CIS student at Blue Hills Regional Technical School!
+I'm a Computer Science/Cybersecurity incoming freshman for Boston University!
 
 You'll find a mix here: school projects (Unity / C#), a personal portfolio site, and a growing focus on networking and cybersecurity as I work through the CCNA.
 
