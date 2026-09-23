@@ -1,6 +1,6 @@
-## Hi, I'm David 👋
+## Hi, I'm David 
 
-I'm a Computer Science/Cybersecurity incoming freshman for Boston University!
+I'm a Computer Science/Cybersecurity freshman for Boston University!
 
 You'll find a mix here: school projects (Unity / C#), a personal portfolio site, and a growing focus on networking and cybersecurity as I work through the CCNA.
 
